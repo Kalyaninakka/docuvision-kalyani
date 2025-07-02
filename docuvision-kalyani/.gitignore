@@ -1,0 +1,15 @@
+# Ignore all virtual environments
+venv/
+**/venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore macOS files
+.DS_Store
+
+# Ignore temporary files
+*.log
+*.swp
+
